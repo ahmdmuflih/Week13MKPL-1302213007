@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/akunmkepl/continuous_deployment</url>
+      <url>https://maven.pkg.github.com/ahmdmuflih/Week13MKPL-1302213007</url>
     </repository>
   </distributionManagement>
   
